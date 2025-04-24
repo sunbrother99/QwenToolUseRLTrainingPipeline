@@ -1,1 +1,5 @@
+{
+  "prompt": "查下现在杭州那边的气温是多少",
+  "response": "queryWeather(location=杭州, date=now)"
+}
 
