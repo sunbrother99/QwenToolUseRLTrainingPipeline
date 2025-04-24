@@ -1,1 +1,6 @@
+{
+  "prompt": "帮我查一下明天北京的天气",
+  "chosen": "queryWeather(location=北京, date=2025-04-24)",
+  "rejected": "queryWeather(location=上海, date=2025-04-24)"
+}
 
