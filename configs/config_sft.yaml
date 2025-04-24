@@ -1,1 +1,6 @@
-
+model_name: qwen/Qwen-7B-Chat
+train_file: data/sft_data.jsonl
+output_dir: output/sft
+num_train_epochs: 3
+learning_rate: 5e-5
+batch_size: 2
