@@ -1,1 +1,6 @@
+{
+  "instruction": "帮我查一下明天北京的天气",
+  "input": "",
+  "output": "{\"tool_call\": {\"tool_name\": \"queryWeather\", \"parameters\": {\"location\": \"北京\", \"date\": \"2025-04-24\"}}}"
+}
 
